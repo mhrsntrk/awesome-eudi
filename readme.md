@@ -106,6 +106,7 @@ Official programme pages for wallets with no public source code yet. Useful for 
 - [mObywatel](https://www.mobywatel.gov.pl/) - Poland's citizen wallet, one of the most widely used national identity apps in Europe.
 - [gov.gr Wallet](https://wallet.gov.gr/) - Greece's wallet, an early mover on national ID and driving licence in a phone.
 - [eDoklady](https://edoklady.gov.cz/) - Czechia's digital documents app.
+- [AltID](https://www.borger.dk/hjaelp-og-vejledning/hvad-har-du-brug-for-hjaelp-til/altid) - Denmark's official ID app from the Danish Agency for Digitisation, holding an identity card and a standalone age credential. Credentials stay on the device, it does not replace MitID, and it is Denmark-only until EU-wide use arrives.
 - [DIGG](https://www.digg.se/) - The Swedish agency behind the repositories above, and the place its roadmap is published.
 
 ## Pilot Consortia
