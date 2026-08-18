@@ -16,6 +16,8 @@ Contributions are welcome. See [contributing.md](contributing.md) for what belon
   - [Wallet Apps](#wallet-apps)
   - [Issuers, Verifiers and Services](#issuers-verifiers-and-services)
 - [National Wallets](#national-wallets)
+  - [Built in the Open](#built-in-the-open)
+  - [National Programmes](#national-programmes)
 - [Pilot Consortia](#pilot-consortia)
 - [Independent Wallets and Toolkits](#independent-wallets-and-toolkits)
 - [Libraries by Language](#libraries-by-language)
@@ -77,10 +79,34 @@ The European Commission publishes a complete reference stack. It is the fastest 
 
 ## National Wallets
 
+Member states are at very different stages. Some are developing in public, most are not. Both are listed, because knowing that a country's work is closed is itself useful.
+
+### Built in the Open
+
 - [nl-wallet](https://github.com/MinBZK/nl-wallet) - The Netherlands' public wallet, developed in the open by the Ministry of the Interior. One of the most complete national implementations.
+- [wallet-app-android](https://github.com/diggsweden/wallet-app-android) - Sweden's national wallet for Android, developed by DIGG and updated daily.
+- [wallet-app-ios](https://github.com/diggsweden/wallet-app-ios) - The iOS counterpart of Sweden's national wallet.
+- [wallet-provider](https://github.com/diggsweden/wallet-provider) - Sweden's wallet provider service, issuing wallet unit attestations.
 - [eid-wallet-it-docs](https://github.com/italia/eid-wallet-it-docs) - Italy's national wallet technical specifications, published as a versioned book.
 - [valera](https://github.com/a-sit-plus/valera) - Austrian wallet app built on the A-SIT Plus credential stack.
+- [BMI eIDAS2 workspace](https://gitlab.opencode.de/bmi/eudi-wallet/eidas2) - Germany's Federal Ministry of the Interior working in the open on OpenCoDE, including the public consultations behind the national architecture.
 - [irmamobile](https://github.com/privacybydesign/irmamobile) - Yivi, formerly IRMA, the long-running Dutch attribute-based credential wallet that predates the ARF and informs it.
+- [swiyu-issuer](https://github.com/swiyu-admin-ch/swiyu-issuer) - Generic issuer for the Swiss e-ID trust infrastructure. Switzerland is outside the EU, but swiyu runs the same OpenID4VC stack and is unusually well documented.
+- [swiyu-verifier](https://github.com/swiyu-admin-ch/swiyu-verifier) - The verifier half of the Swiss infrastructure.
+- [swiyu documentation](https://swiyu-admin-ch.github.io/) - Full public documentation for the Swiss trust infrastructure, worth reading regardless of jurisdiction.
+
+### National Programmes
+
+Official programme pages for wallets with no public source code yet. Useful for tracking timelines, pilots and procurement.
+
+- [SPRIND EUDI Wallet](https://www.sprind.org/en/actions/strategic-projects/eudi-wallet) - Germany's national wallet project, run through the federal innovation agency.
+- [SPRIND Funke EUDI Wallet Prototypes](https://www.sprind.org/en/actions/challenges/eudi-wallet-prototypes) - The prototype competition that shaped the German approach, with results released openly.
+- [France Identité](https://france-identite.gouv.fr/) - France's national identity app, live in production and on the path to EUDI certification.
+- [Cartera Digital](https://carteradigital.gob.es/) - Spain's national wallet programme.
+- [mObywatel](https://www.mobywatel.gov.pl/) - Poland's citizen wallet, one of the most widely used national identity apps in Europe.
+- [gov.gr Wallet](https://wallet.gov.gr/) - Greece's wallet, an early mover on national ID and driving licence in a phone.
+- [eDoklady](https://edoklady.gov.cz/) - Czechia's digital documents app.
+- [DIGG](https://www.digg.se/) - The Swedish agency behind the repositories above, and the place its roadmap is published.
 
 ## Pilot Consortia
 
