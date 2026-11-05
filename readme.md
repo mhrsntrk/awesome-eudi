@@ -156,6 +156,7 @@ The large-scale pilots are where the ARF meets real use cases. Their outputs are
 - [sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js) - Reference JavaScript implementation of SD-JWT.
 - [OID4VC](https://github.com/Sphereon-Opensource/OID4VC) - Sphereon's OpenID4VC libraries for issuance and presentation.
 - [SSI-SDK](https://github.com/Sphereon-Opensource/SSI-SDK) - Broader SSI toolkit, now legacy but still widely deployed.
+- [eudi-disclosure-policy](https://github.com/su-engineering/eudi-disclosure-policy) - Verifier-side preflight that checks every alternative in an OpenID4VP DCQL request against a data-minimization policy, with a CLI for CI.
 
 ### Python
 
