@@ -32,7 +32,7 @@ Contributions are welcome. See [contributing.md](contributing.md) for what belon
 
 ## Start Here
 
-- [EU Digital Identity Wallet Home](https://ec.europa.eu/digital-building-blocks/sites/spaces/EUDIGITALIDENTITYWALLET/pages/6944877) - The European Commission's landing page for the programme, linking specifications, releases and support channels.
+- [EU Digital Identity Wallet Home](https://ec.europa.eu/digital-building-blocks/sites/spaces/EUDIGITALIDENTITYWALLET/overview) - The European Commission's landing page for the programme, linking specifications, releases and support channels.
 - [Architecture and Reference Framework](https://eudi.dev/) - The ARF rendered as a browsable site. The single most important document in the ecosystem.
 
 ## Regulation and Policy
@@ -86,7 +86,7 @@ Member states are at very different stages. Some are developing in public, most 
 - [nl-wallet](https://github.com/MinBZK/nl-wallet) - The Netherlands' public wallet, developed in the open by the Ministry of the Interior. One of the most complete national implementations.
 - [wallet-app-android](https://github.com/diggsweden/wallet-app-android) - Sweden's national wallet for Android, developed by DIGG and updated daily.
 - [wallet-app-ios](https://github.com/diggsweden/wallet-app-ios) - The iOS counterpart of Sweden's national wallet.
-- [wallet-provider](https://github.com/diggsweden/wallet-provider) - Sweden's wallet provider service, issuing wallet unit attestations.
+- [wallet-attestation-issuer](https://github.com/diggsweden/wallet-attestation-issuer) - Sweden's service for issuing and managing wallet unit attestations.
 - [eid-wallet-it-docs](https://github.com/italia/eid-wallet-it-docs) - Italy's national wallet technical specifications, published as a versioned book.
 - [valera](https://github.com/a-sit-plus/valera) - Austrian wallet app built on the A-SIT Plus credential stack.
 - [BMI eIDAS2 workspace](https://gitlab.opencode.de/bmi/eudi-wallet/eidas2) - Germany's Federal Ministry of the Interior working in the open on OpenCoDE, including the public consultations behind the national architecture.
@@ -106,7 +106,7 @@ Official programme pages for wallets with no public source code yet. Useful for 
 - [mObywatel](https://www.mobywatel.gov.pl/) - Poland's citizen wallet, one of the most widely used national identity apps in Europe.
 - [gov.gr Wallet](https://wallet.gov.gr/) - Greece's wallet, an early mover on national ID and driving licence in a phone.
 - [eDoklady](https://edoklady.gov.cz/) - Czechia's digital documents app.
-- [AltID](https://www.borger.dk/hjaelp-og-vejledning/hvad-har-du-brug-for-hjaelp-til/altid) - Denmark's official ID app from the Danish Agency for Digitisation, holding an identity card and a standalone age credential. Credentials stay on the device, it does not replace MitID, and it is Denmark-only until EU-wide use arrives.
+- [AltID](https://digst.dk/it-loesninger/altid/) - Denmark's official ID app from the Danish Agency for Digitisation, holding an identity card and a standalone age credential. Credentials stay on the device, it does not replace MitID, and it is Denmark-only until EU-wide use arrives.
 - [DIGG](https://www.digg.se/) - The Swedish agency behind the repositories above, and the place its roadmap is published.
 
 ## Pilot Consortia
@@ -124,7 +124,7 @@ The large-scale pilots are where the ARF meets real use cases. Their outputs are
 - [waltid-identity](https://github.com/walt-id/waltid-identity) - All-in-one issuer, verifier and wallet toolkit with hosted and self-hosted options.
 - [one-wallet](https://github.com/procivis/one-wallet) - The wallet application built on one-core.
 - [AltMe](https://github.com/TalaoDAO/AltMe) - Open-source wallet supporting EBSI, ARF and DIIP profiles.
-- [eudiplo](https://github.com/openwallet-foundation/eudiplo) - Integration layer that fronts EUDI issuance and verification for services that do not want to implement the protocols themselves.
+- [eudiplo](https://github.com/EUDIPLO/eudiplo) - Integration layer that fronts EUDI issuance and verification for services that do not want to implement the protocols themselves.
 - [sprucekit-mobile](https://github.com/spruceid/sprucekit-mobile) - Libraries and examples for adding verifiable credentials and mDL to mobile apps.
 
 ## Libraries by Language
