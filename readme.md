@@ -1,6 +1,6 @@
 # Awesome EUDI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Curated resources for the European Digital Identity Wallet: the regulation, the Architecture and Reference Framework, the specifications underneath it, and the implementations that exist today.
+> The digital identity wallet every EU member state must offer its citizens under eIDAS 2.0, together with the regulation, the Architecture and Reference Framework, the specifications underneath it, and the implementations that exist today.
 
 The EUDI Wallet is the largest digital identity programme in the world by mandated population. Every EU member state must offer a wallet to its citizens, and the specifications it runs on (OpenID4VCI, OpenID4VP, SD-JWT VC, ISO mdoc) are being adopted well beyond Europe. The ecosystem is spread across dozens of repositories, four large-scale pilot consortia, several standards bodies and twenty-seven national implementations, with no single index. This list is that index.
 
@@ -113,7 +113,7 @@ Official programme pages for wallets with no public source code yet. Useful for 
 
 The large-scale pilots are where the ARF meets real use cases. Their outputs are often more concrete than the framework itself.
 
-- [EWC eudi-wallet-rfcs](https://github.com/EWC-consortium/eudi-wallet-rfcs) - The EU Digital Identity Wallet Consortium's RFCs, the most readable set of implementation profiles in the ecosystem.
+- [EWC eudi-wallet-rfcs](https://github.com/EWC-consortium/eudi-wallet-rfcs) - The EU Digital Identity Wallet Consortium's RFCs, the most readable set of implementation profiles in the ecosystem. No commits since September 2025, kept because the profiles remain the clearest reference.
 - [POTENTIAL](https://www.digital-identity-wallet.eu/) - The largest pilot, covering government services, banking, telecoms, driving licences and health.
 - [NOBID](https://www.nobidconsortium.com/) - The Nordic-Baltic pilot, focused on payments.
 - [DC4EU](https://www.dc4eu.eu/) - Pilot covering education credentials and social security coordination.
