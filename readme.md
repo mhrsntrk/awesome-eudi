@@ -161,6 +161,7 @@ The large-scale pilots are where the ARF meets real use cases. Their outputs are
 
 - [eudi-wallet-it-python](https://github.com/italia/eudi-wallet-it-python) - Toolchain for an OpenID4VP relying party with a SATOSA backend, following the Italian profile.
 - [pyMDOC-CBOR](https://github.com/IdentityPython/pyMDOC-CBOR) - ISO mdoc CBOR issuer and verifier for PID and mDL use cases.
+- [polaris-oid4vp](https://github.com/EgorKhaklin/polaris-id/tree/main/packages/polaris-oid4vp) - OpenID4VP 1.0 + HAIP 1.0 verifier in Python for SD-JWT VC over direct_post.jwt, with a CLI that prints one verdict per presentation; 1.0.0rc7 is OpenID Certified.
 
 ### Rust
 
